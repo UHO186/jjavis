@@ -4,7 +4,7 @@ import requests
 def sims(data):
     headers = {
         'Content-Type': 'application/json',
-        'x-api-key': '4vJNj6aalH0G4FEu6flvL_VQUSOwYicsN1iheTa2',
+        'x-api-key': 'API 키',
     }
 
     json_data = {
