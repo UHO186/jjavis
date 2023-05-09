@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&text=UmJuHoGithub)
+![header](https://capsule-render.vercel.app/api?type=wave&text=UmJuHo)
 # OLD_javis
 
 # clova_stt
