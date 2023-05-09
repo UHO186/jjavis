@@ -1,8 +1,8 @@
 import sys
 import requests
 
-client_id = "uuf8jj0qot"
-client_secret = "WKrbL52iDgDzcDC0v1uMALM0zcfxOd0XpHIg1J9J"
+client_id = "클라이언트 ID"
+client_secret = "클라이언트 시크릿 번호"
 lang = "Jpn" # 언어 코드 ( Kor, Jpn, Eng, Chn )
 url = "https://naveropenapi.apigw.ntruss.com/recog/v1/stt?lang=" + lang
 data = open('음성 파일 경로', 'rb')
