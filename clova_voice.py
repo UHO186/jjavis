@@ -8,8 +8,8 @@ import urllib, openpyxl, time
 import simsims as si
 
 def clova(datas):
-    client_id = "0y2d4anvaa"
-    client_secret = "4ZLCFEGYvpoiaC0SJ49rfpEhz8a1vBaL8X95ojEH"
+    client_id = "클라이언트 ID"
+    client_secret = "클라이언트 시크릿 번호"
     encText = urllib.parse.quote(datas)
     data = "speaker=nsayuri&volume=1&speed=0&pitch=2&format=mp3&text=" + encText
     url = "https://naveropenapi.apigw.ntruss.com/tts-premium/v1/tts"
