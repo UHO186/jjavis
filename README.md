@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&text=UmJuHo)
 # OLD_javis
 
 # clova_stt
@@ -17,7 +16,7 @@
 
 STT : Whisper 오픈소스를 사용해서 일본어 모델로 STT를 변경할 예정입니다. <https://github.com/openai/whisper>
 
-TTS : vits_finetuning오픈소스와 emotion_embbeding을 결합하여 모델을 제작해 TTS를 변경할 예정입니다. <https://github.com/umjuho/emotion-finetuning-vits/tree/main>
+TTS : vits_finetuning오픈소스와 emotion_embbeding을 결합하여 모델을 제작해 TTS를 변경할 예정입니다. <https://github.com/UHO186/emotion-finetuning-vits>
 
 ChatBOT : 일본의 AIN모델이나 마이크로 소프트사의 Chat-GPT모델을 사용할 예정입니다. <https://ai-novel.com/> or <https://chat.openai.com/>
 
