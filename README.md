@@ -14,7 +14,7 @@
 
 # NEW_javis
 
-STT : Whisper 오픈소스를 사용해서 일본어 모델로 STT를 변경할 예정입니다. <https://github.com/openai/whisper>
+STT : Python의 speech_recognition라는 모듈을 사용하여 실시간으로 음성을 입력값으로 받을 예정입니다. <https://pypi.org/project/SpeechRecognition/>
 
 TTS : vits_finetuning오픈소스와 emotion_embbeding을 결합하여 모델을 제작해 TTS를 변경할 예정입니다. <https://github.com/UHO186/emotion-finetuning-vits>
 
